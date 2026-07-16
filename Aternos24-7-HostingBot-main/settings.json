@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "zwyklysurviva212.aternos.me",
+    "ip": "zwyklysurvival212.aternos.me",
     "port": 14394,
     "version": "1.21.11",
     "try-creative": false
