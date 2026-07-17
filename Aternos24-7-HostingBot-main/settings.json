@@ -33,7 +33,7 @@
       "messages": []
     },
     "chat-log": true,
-    "auto-reconnect": false,
+    "auto-reconnect": true,
     "auto-reconnect-delay": 10000,
     "max-reconnect-delay": 120000
   },
